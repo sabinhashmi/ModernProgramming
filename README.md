@@ -1,5 +1,4 @@
-## Objective 
-Build efficient Machine Learning based data filteration pipeline for LHCb, CERN.
+# Building Second Generation Machine Learning based Algorithm for Long-lived Particles Reconstruction in Upgraded LHCb Experiment, CERN.
 
 ## Detailed Description:
 At LHCb, one of the major detectors in Large Hadron Collider(LHC) study about the cause of Matter and Anti-Matter asymmetry.  
@@ -12,12 +11,16 @@ The existing Hardware Trigger System(L0) is completely replaced by Software Trig
 
 I work in building a Machine Learning based track classifier and deploy it in the Track Reconstruction Algorithm Sequence.
 
+---
+
 ## Challenges : 
 * Working on Monte Carlo Simulation Data
 * Train the models on Huge Volume of Data
 * Computational Limitations
 * Imbalance Data Modeling
 * Multi-language scripting (Eg: Python,C++)
+
+---
 
 ## Work Pipeline (Simplified)
 
@@ -31,4 +34,4 @@ I work in building a Machine Learning based track classifier and deploy it in th
 8. Validate Model Performance
 9. Analysis on the data generated after filteration.
 
-
+---
