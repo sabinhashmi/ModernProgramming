@@ -5,6 +5,7 @@ Build efficient Machine Learning based data filteration pipeline for LHCb, CERN.
 At LHCb, one of the major detectors in Large Hadron Collider(LHC) study about the cause of Matter and Anti-Matter asymmetry.  
 
 On 2022, the going to restart after major upgrades. The opposite moving particles collide each other within four detectors at every 25ns cycle corresponds to 40MHz.  
+
 The amount of data generated at every event is so huge in volume, to filter out data generated to the storage tapes, it require an advanced and more sophisticated Trigger System is required.  
 
 The existing Hardware Trigger System(L0) is completely replaced by Software Trigger Systems on Run 3/Upgrade 1 on 2022.  
@@ -29,3 +30,5 @@ I work in building a Machine Learning based track classifier and deploy it in th
 7. Deploy the model to Track Reconstruction Algorithm
 8. Validate Model Performance
 9. Analysis on the data generated after filteration.
+
+
