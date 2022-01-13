@@ -35,9 +35,19 @@ I work in building a Machine Learning based track classifier and deploy it in th
 9. Analysis on the data generated after filteration.
 
 ---
-
+### Project Workflow
 
 ![Flowchart](Data/Flowchart.png)
 
 
 --- 
+
+
+### Suggestions:
+
+* Best ways to optimize time in C++
+* Best practice to balance imbalance data models, when you have huge volume of data samples.
+* Run python scripts with limited CPU Cores in Server.
+* Any suggestions to optimize the workflow above.
+
+---
